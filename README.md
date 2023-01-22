@@ -1,5 +1,5 @@
-# android-pure-view-logos
-Android Pure View Logos
+# Android Pure View Logos
+Logos created in Android View.
 
 # Demo
 
