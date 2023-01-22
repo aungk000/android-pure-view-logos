@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pure View Logos</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="netflix">Netflix</string>
+    <string name="fragment_logo_detail_label">{name}</string>
+    <string name="day_night">Day Night</string>
+</resources>
